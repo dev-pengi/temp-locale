@@ -1,0 +1,1127 @@
+{
+  "cancel": {
+    "en": "Cancel",
+    "fr": "Annuler",
+    "ar": "إلغاء"
+  },
+  "enabled": {
+    "en": "Enabled",
+    "fr": "Activé",
+    "ar": "مفعل"
+  },
+  "disabled": {
+    "en": "Disabled",
+    "fr": "Désactivé",
+    "ar": "معطل"
+  },
+  "confirm": {
+    "en": "Confirm",
+    "fr": "Confirmer",
+    "ar": "تأكيد"
+  },
+  "delete": {
+    "en": "Delete",
+    "fr": "Supprimer",
+    "ar": "حذف"
+  },
+  "selected": {
+    "en": "selected",
+    "fr": "choisie",
+    "ar": "مختار"
+  },
+  "position": {
+    "en": "Position",
+    "fr": "Position",
+    "ar": "موضع"
+  },
+  "unknown": {
+    "en": "Unknown",
+    "fr": "Unknown",
+    "ar": "غير معروف"
+  },
+  "save": {
+    "en": "Save",
+    "fr": "Enregistrer",
+    "ar": "حفظ"
+  },
+  "edit": {
+    "en": "Edit",
+    "fr": "Modifier",
+    "ar": "تحرير"
+  },
+  "year": {
+    "en": "Year",
+    "fr": "Année",
+    "ar": "سنة"
+  },
+  "month": {
+    "en": "Month",
+    "fr": "Mois",
+    "ar": "شهر"
+  },
+  "day": {
+    "en": "Day",
+    "fr": "Jour",
+    "ar": "يوم"
+  },
+  "or": {
+    "en": "OR",
+    "fr": "OU",
+    "ar": "أو"
+  },
+  "map": {
+    "en": "Map",
+    "fr": "Carte",
+    "ar": "خريطة"
+  },
+  "total_users": {
+    "en": "Total Users",
+    "fr": "Total des employés",
+    "ar": "إجمالي المستخدمين"
+  },
+  "signed_in_users": {
+    "en": "Signed In Users",
+    "fr": "Employés connectés",
+    "ar": "المستخدمين المتصلين"
+  },
+  "name": {
+    "en": "Name",
+    "fr": "Nom",
+    "ar": "اسم"
+  },
+  "updated_at": {
+    "en": "Updated At",
+    "fr": "Mis à jour à",
+    "ar": "تم التحديث في"
+  },
+  "created_at": {
+    "en": "Created At",
+    "fr": "Créé à",
+    "ar": "أنشئت في"
+  },
+  "dashboard_users_section_title": {
+    "en": "Users",
+    "fr": "Employés",
+    "ar": "المستخدمون"
+  },
+  "create_user": {
+    "en": "Add an User",
+    "fr": "Ajouter un employé",
+    "ar": "إضافة مستخدم"
+  },
+  "create_user_title": {
+    "en": "Add New User",
+    "fr": "Ajouter un nouvel employé",
+    "ar": "إضافة مستخدم جديد"
+  },
+  "create_user_note": {
+    "en": "Fill in the information below to add a new user",
+    "fr": "Remplissez les informations ci-dessous pour ajouter un nouvel employé",
+    "ar": "املأ المعلومات أدناه لإضافة مستخدم جديد"
+  },
+  "email": {
+    "en": "Email",
+    "fr": "Email",
+    "ar": "البريد الإلكتروني"
+  },
+  "password": {
+    "en": "Password",
+    "fr": "Mot de passe",
+    "ar": "كلمة المرور"
+  },
+  "username": {
+    "en": "Username",
+    "fr": "Nom d'utilisateur",
+    "ar": "اسم المستخدم"
+  },
+  "first_name": {
+    "en": "First Name",
+    "fr": "Prénom",
+    "ar": "الاسم الأول"
+  },
+  "last_name": {
+    "en": "Last Name",
+    "fr": "Nom de famille",
+    "ar": "اسم العائلة"
+  },
+  "create_user_submit": {
+    "en": "Add User",
+    "fr": "Ajouter l'employé",
+    "ar": "إضافة مستخدم"
+  },
+  "search_users_placeholder": {
+    "en": "Search Users",
+    "fr": "Rechercher des employés",
+    "ar": "البحث عن المستخدمين"
+  },
+  "table_view": {
+    "en": "Table View",
+    "fr": "Vue de la table",
+    "ar": "عرض الجدول"
+  },
+  "card_view": {
+    "en": "Card View",
+    "fr": "Vue de la carte",
+    "ar": "عرض البطاقة"
+  },
+  "table_user": {
+    "en": "User",
+    "fr": "Utilisateur",
+    "ar": "المستخدم"
+  },
+  "role": {
+    "en": "Role",
+    "fr": "Rôle",
+    "ar": "الدور"
+  },
+  "status": {
+    "en": "Status",
+    "fr": "Statut",
+    "ar": "الحالة"
+  },
+  "user_actions_profile": {
+    "en": "View Profile",
+    "fr": "Voir le profil",
+    "ar": "عرض الملف الشخصي"
+  },
+  "user_actions_edit": {
+    "en": "Edit User",
+    "fr": "Modifier l'employé",
+    "ar": "تعديل المستخدم"
+  },
+  "user_actions_edit_form_note": {
+    "en": "Fill in the information below to edit this user",
+    "fr": "Remplissez les informations ci-dessous pour modifier cet employé",
+    "ar": "املأ المعلومات أدناه لتعديل هذا المستخدم"
+  },
+  "user_actions_edit_success": {
+    "en": "User updated successfully",
+    "fr": "Employé mis à jour avec succès",
+    "ar": "تم تحديث المستخدم بنجاح"
+  },
+  "user_actions_edit_error": {
+    "en": "Error updating user",
+    "fr": "Erreur lors de la mise à jour de l'employé",
+    "ar": "حدث خطأ أثناء تحديث المستخدم"
+  },
+  "user_actions_delete": {
+    "en": "Delete User",
+    "fr": "Supprimer l'employé",
+    "ar": "حذف المستخدم"
+  },
+  "user_actions_delete_confirm": {
+    "en": "Are you sure you want to delete this user? ({0})",
+    "fr": "Êtes-vous sûr de vouloir supprimer cet employé? ({0})",
+    "ar": "هل أنت متأكد أنك تريد حذف هذا المستخدم؟ ({0})"
+  },
+  "user_actions_delete_success": {
+    "en": "User deleted successfully",
+    "fr": "Employé supprimé avec succès",
+    "ar": "تم حذف المستخدم بنجاح"
+  },
+  "user_actions_delete_error": {
+    "en": "Error deleting user",
+    "fr": "Erreur lors de la suppression de l'employé",
+    "ar": "حدث خطأ أثناء حذف المستخدم"
+  },
+  "dashboard_users_section_empty": {
+    "en": "No users added yet",
+    "fr": "Aucun employé ajouté pour le moment",
+    "ar": "لم تتم إضافة أي مستخدمين بعد"
+  },
+  "general_settings": {
+    "en": "General Settings",
+    "fr": "Paramètres généraux",
+    "ar": "الإعدادات العامة"
+  },
+  "change_password": {
+    "en": "Change Password",
+    "fr": "Changer le mot de passe",
+    "ar": "تغيير كلمة المرور"
+  },
+  "language": {
+    "en": "Language",
+    "fr": "Langue",
+    "ar": "اللغة"
+  },
+  "theme": {
+    "en": "Light Theme",
+    "fr": "Thème Clair",
+    "ar": "الوضع الفاتح"
+  },
+  "dashboard_settings_section_alerts_title": {
+    "en": "Alerts & Popups :",
+    "fr": "Alertes et popups :",
+    "ar": "التنبيهات والنوافذ المنبثقة:"
+  },
+  "dashboard_settings_section_alerts_email": {
+    "en": "Send alerts as emails",
+    "fr": "Envoyer des alertes par e-mail",
+    "ar": "إرسال التنبيهات كرسائل بريد إلكتروني"
+  },
+  "dashboard_settings_section_alerts_email_report": {
+    "en": "Send Reports as emails",
+    "fr": "Envoyer des rapports par e-mail",
+    "ar": "إرسال التقارير كرسائل بريد إلكتروني"
+  },
+  "dashboard_settings_section_alerts_sound": {
+    "en": "Alerts sounds",
+    "fr": "Sons d'alerte",
+    "ar": "أصوات التنبيهات"
+  },
+  "dashboard_settings_section_alerts_popup": {
+    "en": "Popup Alerts",
+    "fr": "Alertes popup",
+    "ar": "التنبيهات المنبثقة"
+  },
+  "change_password_note": {
+    "en": "Please choose a strong unique password to protect your account",
+    "fr": "Veuillez choisir un mot de passe unique et fort pour protéger votre compte",
+    "ar": "يرجى اختيار كلمة مرور قوية وفريدة لحماية حسابك"
+  },
+  "previous_password": {
+    "en": "Previous Password",
+    "fr": "Mot de passe précédent",
+    "ar": "كلمة المرور السابقة"
+  },
+  "new_password": {
+    "en": "New Password",
+    "fr": "Nouveau mot de passe",
+    "ar": "كلمة المرور الجديدة"
+  },
+  "confirm_password": {
+    "en": "Confirm Password",
+    "fr": "Confirmer le mot de passe",
+    "ar": "تأكيد كلمة المرور"
+  },
+  "change_password_submit": {
+    "en": "Change Password",
+    "fr": "Changer",
+    "ar": "تغيير كلمة المرور"
+  },
+  "reset_settings": {
+    "en": "Reset Settings",
+    "fr": "Réinitialiser les paramètres",
+    "ar": "إعادة ضبط الإعدادات"
+  },
+  "reset_settings_confirm": {
+    "en": "Are you sure you want to reset all settings?",
+    "fr": "Êtes-vous sûr de vouloir réinitialiser tous les paramètres?",
+    "ar": "هل أنت متأكد أنك تريد إعادة ضبط جميع الإعدادات؟"
+  },
+  "reset_settings_success": {
+    "en": "Settings reset successfully",
+    "fr": "Paramètres réinitialisés avec succès",
+    "ar": "تم إعادة ضبط الإعدادات بنجاح"
+  },
+  "error_field_required": {
+    "en": "This field is required",
+    "fr": "Ce champ est requis",
+    "ar": "هذا الحقل مطلوب"
+  },
+  "all_fields_required": {
+    "en": "All fields are required",
+    "fr": "Tous les champs sont requis",
+    "ar": "جميع الحقول مطلوبة"
+  },
+  "error_internal_server": {
+    "en": "Internal Server Error",
+    "fr": "Erreur interne du serveur",
+    "ar": "خطأ داخلي في الخادم"
+  },
+  "reset_settings_error": {
+    "en": "Error resetting settings",
+    "fr": "Erreur lors de la réinitialisation des paramètres",
+    "ar": "خطأ في إعادة ضبط الإعدادات"
+  },
+  "users_search_filter": {
+    "en": "Search by {0}",
+    "fr": "Rechercher par: {0}",
+    "ar": "البحث عن طريق {0}"
+  },
+  "upload_options": {
+    "en": "Upload Options",
+    "fr": "Options de photo",
+    "ar": "خيارات التحميل"
+  },
+  "use_webcam": {
+    "en": "Use Webcam",
+    "fr": "Utiliser la webcam",
+    "ar": "استخدام الكاميرا"
+  },
+  "webcam_capture": {
+    "en": "Capture",
+    "fr": "Capturer",
+    "ar": "التقاط"
+  },
+  "upload_file": {
+    "en": "Upload from files",
+    "fr": "Utiliser un fichier",
+    "ar": "تحميل من الملفات"
+  },
+  "webcam_error": {
+    "en": "Error while accessing webcam, please provide permission",
+    "fr": "Erreur lors de l'accès à la webcam, veuillez donner la permission",
+    "ar": "خطأ أثناء الوصول إلى الكاميرا، يرجى منح الإذن"
+  },
+  "password_mismatch": {
+    "en": "Passwords do not match",
+    "fr": "Les mots de passe ne correspondent pas",
+    "ar": "كلمات المرور غير متطابقة"
+  },
+  "password_minimum_length": {
+    "en": "Password should be at least 8 characters",
+    "fr": "Le mot de passe doit contenir au moins 8 caractères",
+    "ar": "يجب أن تحتوي كلمة المرور على 8 أحرف على الأقل"
+  },
+  "no_access_re_login": {
+    "en": "Invalid Access, please re-login",
+    "fr": "Accès invalide, veuillez vous reconnecter",
+    "ar": "دخول غير صالح، يرجى إعادة تسجيل الدخول"
+  },
+  "sites_fetch_error": {
+    "en": "Cannot fetch sites, please refresh the page",
+    "fr": "Impossible de récupérer les sites, veuillez actualiser la page",
+    "ar": "لا يمكن جلب المواقع، يرجى تحديث الصفحة"
+  },
+  "map_loading": {
+    "en": "Loading the map... this could take a few seconds!",
+    "fr": "Chargement de la carte... cela pourrait prendre quelques secondes!",
+    "ar": "جارٍ تحميل الخريطة... قد يستغرق ذلك بضع ثوانٍ!"
+  },
+  "sites_map_title": {
+    "en": "Sites Map",
+    "fr": "Carte des sites",
+    "ar": "خريطة المواقع"
+  },
+  "zoom_level": {
+    "en": "Zoom level",
+    "fr": "Le niveau de zoom",
+    "ar": "مستوى التكبير"
+  },
+  "add_site": {
+    "en": "Add Site",
+    "fr": "Ajouter un site",
+    "ar": "إضافة موقع"
+  },
+  "assign_in_map": {
+    "en": "Go to map",
+    "fr": "Aller à la carte",
+    "ar": "الذهاب إلى الخريطة"
+  },
+  "priority_level_range_error": {
+    "en": "The priority level must be between 1 and 9",
+    "fr": "Le niveau de priorité doit être compris entre 1 et 9",
+    "ar": "يجب أن يكون مستوى الأولوية بين 1 و 9"
+  },
+  "sites": {
+    "en": "Sites",
+    "fr": "Sites",
+    "ar": "المواقع"
+  },
+  "create_site_submit": {
+    "en": "Create Site",
+    "fr": "Créer un site",
+    "ar": "إنشاء موقع"
+  },
+  "create_site_title": {
+    "en": "Add New Site",
+    "fr": "Ajouter Un Nouveau Site",
+    "ar": "إضافة موقع جديد"
+  },
+  "create_site_note": {
+    "en": "Fill in the information below to add a new site",
+    "fr": "Remplissez les informations ci-dessous pour ajouter un nouveau site",
+    "ar": "املأ المعلومات أدناه لإضافة موقع جديد"
+  },
+  "site_name": {
+    "en": "Site name",
+    "fr": "Nom du site",
+    "ar": "اسم الموقع"
+  },
+  "site_description": {
+    "en": "Site Description",
+    "fr": "Description du site",
+    "ar": "وصف الموقع"
+  },
+  "site_coordinates": {
+    "en": "Site Coordinates",
+    "fr": "Coordonnées du site",
+    "ar": "إحداثيات الموقع"
+  },
+  "site_priority_level": {
+    "en": "Priority level",
+    "fr": "Niveau de priorité",
+    "ar": "مستوى الأولوية"
+  },
+  "site_priority_level_input": {
+    "en": "Priority level (1 ~ 9)",
+    "fr": "Niveau de priorité (1 ~ 9)",
+    "ar": "مستوى الأولوية (1 ~ 9)"
+  },
+  "pick_location": {
+    "en": "Click on the map to pick a location",
+    "fr": "Cliquez sur la carte pour choisir un emplacement",
+    "ar": "انقر على الخريطة لاختيار الموقع"
+  },
+  "assign_map_title": {
+    "en": "Pick location",
+    "fr": "Choisir l'emplacement",
+    "ar": "اختيار الموقع"
+  },
+  "pivots": {
+    "en": "Site Pivots",
+    "fr": "Pivots du site",
+    "ar": "محاور الموقع"
+  },
+  "site": {
+    "en": "Site",
+    "fr": "Site",
+    "ar": "موقع"
+  },
+  "nodes": {
+    "en": "Sensors",
+    "fr": "Capteurs",
+    "ar": "أجهزة الاستشعار"
+  },
+  "node": {
+    "en": "Sensor",
+    "fr": "Capteur",
+    "ar": "جهاز الاستشعار"
+  },
+  "size": {
+    "en": "Size",
+    "fr": "Taille",
+    "ar": "الحجم"
+  },
+  "empty_pivots": {
+    "en": "This site has no configured pivots",
+    "fr": "Ce site n'a pas de pivots configurés",
+    "ar": "لا يحتوي هذا الموقع على محاور مكونة"
+  },
+  "pivots_fetch_error": {
+    "en": "Error while fetching site pivots",
+    "fr": "Erreur tout en récupérant les pivots du site",
+    "ar": "خطأ أثناء جلب محاور الموقع"
+  },
+  "pivot_id": {
+    "en": "Pivot ID",
+    "fr": "ID de pivot",
+    "ar": "معرف المحور"
+  },
+  "pivot_name": {
+    "en": "Pivot name",
+    "fr": "Nom de pivot",
+    "ar": "اسم المحور"
+  },
+  "pivot_content": {
+    "en": "Pivot content",
+    "fr": "Contenu de pivot",
+    "ar": "محتوى المحور"
+  },
+  "create_pivot_note": {
+    "en": "Fill in the information below to add a new pivot",
+    "fr": "Remplissez les informations ci-dessous pour ajouter un nouveau pivot",
+    "ar": "املأ المعلومات أدناه لإضافة محور جديد"
+  },
+  "create_pivot_title": {
+    "en": "Add New Pivot",
+    "fr": "Ajouter un nouveau pivot",
+    "ar": "إضافة محور جديد"
+  },
+  "add_pivot": {
+    "en": "Create Pivot",
+    "fr": "Créer un pivot",
+    "ar": "إنشاء محور"
+  },
+  "pivot_actions_delete": {
+    "en": "Delete Pivot",
+    "fr": "Supprimer le pivot",
+    "ar": "حذف المحور"
+  },
+  "pivot_actions_delete_confirm": {
+    "en": "Are you sure you want to delete this Pivot? ({0} - #{1})",
+    "fr": "Êtes-vous sûr de vouloir supprimer ce pivot? ({0} - # {1})",
+    "ar": "هل أنت متأكد أنك تريد حذف هذا المحور؟ ({0} - #{1})"
+  },
+  "update_pivot_note": {
+    "en": "Fill in the information below to update the pivot",
+    "fr": "Remplissez les informations ci-dessous pour mettre à jour le pivot",
+    "ar": "املأ المعلومات أدناه لتحديث المحور"
+  },
+  "pivot_actions_edit": {
+    "en": "Update Pivot",
+    "fr": "Modifier le pivot",
+    "ar": "تحديث المحور"
+  },
+  "pivot_color": {
+    "en": "Pivot Color",
+    "fr": "Couleur de pivot",
+    "ar": "لون المحور"
+  },
+  "nodes_fetch_error": {
+    "en": "Cannot fetch sensors, please refresh the page",
+    "fr": "Impossible de récupérer les capteurs, veuillez actualiser la page",
+    "ar": "لا يمكن جلب أجهزة الاستشعار، يرجى تحديث الصفحة"
+  },
+  "add_node": {
+    "en": "Create Sensor",
+    "fr": "Créer un capteur",
+    "ar": "إنشاء جهاز استشعار"
+  },
+  "create_node_note": {
+    "en": "Fill in the information below to add a new sensor",
+    "fr": "Remplissez les informations ci-dessous pour ajouter un nouveau capteur",
+    "ar": "املأ المعلومات أدناه لإضافة جهاز استشعار جديد"
+  },
+  "create_node_title": {
+    "en": "Add New Sensor",
+    "fr": "Ajouter un nouveau capteur",
+    "ar": "إضافة جهاز استشعار جديد"
+  },
+  "node_id": {
+    "en": "Sensor ID",
+    "fr": "ID de capteur",
+    "ar": "معرف جهاز الاستشعار"
+  },
+  "node_name": {
+    "en": "Sensor name",
+    "fr": "Nom de capteur",
+    "ar": "اسم جهاز الاستشعار"
+  },
+  "nodes_assets_loading": {
+    "en": "Loading necessary data and assets",
+    "fr": "Chargement des données et des actifs nécessaires",
+    "ar": "جارٍ تحميل البيانات والأصول الضرورية"
+  },
+  "settings": {
+    "en": "Settings",
+    "fr": "Paramètres",
+    "ar": "الإعدادات"
+  },
+  "display_language": {
+    "en": "Display Language",
+    "fr": "Langue",
+    "ar": "لغة العرض"
+  },
+  "display_language_note": {
+    "en": "Choose your preferred app language",
+    "fr": "Choisissez votre langue d'application préférée",
+    "ar": "اختر لغة التطبيق المفضلة لديك"
+  },
+  "app_theme": {
+    "en": "Theme",
+    "fr": "Thème",
+    "ar": "السمة"
+  },
+  "app_theme_note": {
+    "en": "Choose your preferred app Theme",
+    "fr": "Choisissez le thème préféré de votre application",
+    "ar": "اختر السمة المفضلة لديك"
+  },
+  "dark_theme": {
+    "en": "Dark Theme",
+    "fr": "Thème sombre",
+    "ar": "السمة الداكنة"
+  },
+  "light_theme": {
+    "en": "Light Theme",
+    "fr": "Thème léger",
+    "ar": "السمة الفاتحة"
+  },
+  "preferences": {
+    "en": "Preferences",
+    "fr": "Préférences",
+    "ar": "التفضيلات"
+  },
+  "appearance": {
+    "en": "Appearance",
+    "fr": "Apparence",
+    "ar": "المظهر"
+  },
+  "accessibility": {
+    "en": "Accessibility",
+    "fr": "Accessibilité",
+    "ar": "إمكانية الوصول"
+  },
+  "map_type": {
+    "en": "Map Type",
+    "fr": "Type de carte",
+    "ar": "نوع الخريطة"
+  },
+  "map_type_note": {
+    "en": "Choose your preferred map type",
+    "fr": "Choisissez votre type de carte préféré",
+    "ar": "اختر نوع الخريطة المفضل لديك"
+  },
+  "map_type_none": {
+    "en": "Disable Map",
+    "fr": "Désactiver la carte",
+    "ar": "تعطيل الخريطة"
+  },
+  "map_type_roadmap": {
+    "en": "Default",
+    "fr": "Défaut",
+    "ar": "افتراضي"
+  },
+  "map_type_satellite": {
+    "en": "Satellite",
+    "fr": "Satellite",
+    "ar": "الأقمار الصناعية"
+  },
+  "map_type_hybrid": {
+    "en": "Hybrid",
+    "fr": "Hybride",
+    "ar": "هجينة"
+  },
+  "map_type_terrain": {
+    "en": "Terrain",
+    "fr": "Terrain",
+    "ar": "تضاريس"
+  },
+  "map_marker_cluster_enabled": {
+    "en": "Marker Clusterer",
+    "fr": "Groupère de marqueur",
+    "ar": "تجميع العلامات"
+  },
+  "map_marker_cluster_enabled_note": {
+    "en": "Marker clusterer enhance map readability by grouping the near markers on zoom",
+    "fr": "Le cluster de marqueur améliore la lisibilité de la carte en regroupant les marqueurs proches sur zoom",
+    "ar": "تجميع العلامات يحسن من وضوح الخريطة من خلال تجميع العلامات القريبة عند التكبير"
+  },
+  "soil_temperature": {
+    "en": "Soil Temperature",
+    "fr": "Température du sol",
+    "ar": "درجة حرارة التربة"
+  },
+  "soil_humidity": {
+    "en": "Soil Humidity",
+    "fr": "Humidité du sol",
+    "ar": "رطوبة التربة"
+  },
+  "soil_ec": {
+    "en": "Soil Conductivity",
+    "fr": "Conductivité du sol",
+    "ar": "موصلية التربة"
+  },
+  "soil_ph": {
+    "en": "Soil pH",
+    "fr": "pH du sol",
+    "ar": "رقم الحموضة في التربة"
+  },
+  "soil_acidity": {
+    "en": "Soil Acidity",
+    "fr": "Acidité du sol",
+    "ar": "حمضية التربة"
+  },
+  "soil_nitrogen": {
+    "en": "Soil Nitrogen",
+    "fr": "Azote du sol",
+    "ar": "نيتروجين التربة"
+  },
+  "soil_phosphorus": {
+    "en": "Soil Phosphorus",
+    "fr": "Phosphore du sol",
+    "ar": "فوسفور التربة"
+  },
+  "soil_potassium": {
+    "en": "Soil Potassium",
+    "fr": "Potassium du sol",
+    "ar": "بوتاسيوم التربة"
+  },
+  "graph_range_day": {
+    "en": "1 Day",
+    "fr": "1 jour",
+    "ar": "يوم واحد"
+  },
+  "graph_range_week": {
+    "en": "1 Week",
+    "fr": "1 semaine",
+    "ar": "أسبوع واحد"
+  },
+  "graph_range_month": {
+    "en": "1 Month",
+    "fr": "1 mois",
+    "ar": "شهر واحد"
+  },
+  "graph_range_year": {
+    "en": "12 Months",
+    "fr": "12 mois",
+    "ar": "12 شهراً"
+  },
+  "data_tab": {
+    "en": "Sensors Data",
+    "fr": "Données de capteurs",
+    "ar": "بيانات المستشعرات"
+  },
+  "graphs_tab": {
+    "en": "Sensors Graphs",
+    "fr": "Graphiques de capteurs",
+    "ar": "رسوم بيانية للمستشعرات"
+  },
+  "nodes_data_note_pivot_average": {
+    "en": "Viewing the average latest data of Pivot#{0}",
+    "fr": "Affichage des dernières données moyennes de Pivot#{0}",
+    "ar": "عرض البيانات المتوسطة الأخيرة لـ Pivot#{0}"
+  },
+  "nodes_data_note_node": {
+    "en": "Viewing the average latest data of the selected Sensor",
+    "fr": "Affichage des dernières données moyennes du capteur sélectionné",
+    "ar": "عرض البيانات المتوسطة الأخيرة للمستشعر المحدد"
+  },
+  "nodes_data_note_selected_nodes": {
+    "en": "Viewing the average latest data of {0} selected Sensors",
+    "fr": "Affichage des dernières données moyennes des capteurs sélectionnés {0}",
+    "ar": "عرض البيانات المتوسطة الأخيرة لـ {0} من المستشعرات المحددة"
+  },
+  "error_marker_out_area": {
+    "en": "The marker must be inside the site area",
+    "fr": "Le marqueur doit être à l'intérieur de la zone du site",
+    "ar": "يجب أن يكون المؤشر داخل منطقة الموقع"
+  },
+  "site_actions_delete": {
+    "en": "Delete Site",
+    "fr": "Supprimer le Site",
+    "ar": "حذف الموقع"
+  },
+  "site_actions_delete_confirm": {
+    "en": "Are you sure you want to delete this Site? ({0})",
+    "fr": "Êtes-vous sûr de vouloir supprimer ce Site? ({0})",
+    "ar": "هل أنت متأكد أنك تريد حذف هذا الموقع؟ ({0})"
+  },
+  "site_actions_update_title": {
+    "en": "Update Site",
+    "fr": "Mettre à jour le site",
+    "ar": "تحديث الموقع"
+  },
+  "site_actions_update_note": {
+    "en": "Fill in the information below to update the site",
+    "fr": "Remplissez les informations ci-dessous pour mettre à jour le site",
+    "ar": "املأ المعلومات أدناه لتحديث الموقع"
+  },
+  "site_card_name": {
+    "en": "Site Name",
+    "fr": "Nom du site",
+    "ar": "اسم الموقع"
+  },
+  "site_card_description": {
+    "en": "Description",
+    "fr": "description",
+    "ar": "الوصف"
+  },
+  "site_card_details": {
+    "en": "Details",
+    "fr": "Détails",
+    "ar": "التفاصيل"
+  },
+  "site_card_area_space": {
+    "en": "Area Space",
+    "fr": "Espace de zone",
+    "ar": "مساحة المنطقة"
+  },
+  "site_card_pivots_number": {
+    "en": "Number Of Pivots",
+    "fr": "Number Of Pivots",
+    "ar": "عدد المحاور"
+  },
+  "site_card_actions_update_details": {
+    "en": "Update Details",
+    "fr": "Mettre à jour les détails",
+    "ar": "تحديث التفاصيل"
+  },
+  "site_card_actions_update_marker": {
+    "en": "Replace Marker",
+    "fr": "Remplacer le marqueur",
+    "ar": "استبدال العلامة"
+  },
+  "site_card_actions_update_redraw": {
+    "en": "Redraw Area",
+    "fr": "Redémarrer la zone",
+    "ar": "إعادة رسم المنطقة"
+  },
+  "site_card_actions_zoom_site": {
+    "en": "Zoom Site",
+    "fr": "Site de zoom",
+    "ar": "تكبير الموقع"
+  },
+  "site_card_actions_copy_id": {
+    "en": "Copy Site ID",
+    "fr": "Copier l'ID du site",
+    "ar": "نسخ معرف الموقع"
+  },
+  "site_card_actions_delete": {
+    "en": "Delete Site",
+    "fr": "Supprimer le site",
+    "ar": "حذف الموقع"
+  },
+  "site_card_actions_delete_success": {
+    "en": "Site has been deleted successfully",
+    "fr": "Le site a été supprimé avec succès",
+    "ar": "تم حذف الموقع بنجاح"
+  },
+  "site_card_actions_delete_error": {
+    "en": "Error while deleting the site",
+    "fr": "Erreur lors de la suppression du site",
+    "ar": "خطأ أثناء حذف الموقع"
+  },
+  "site_card_actions_update_name_error": {
+    "en": "The site name must be less than 24 characters",
+    "fr": "Le nom du site doit être inférieur à 24 caractères",
+    "ar": "يجب أن يكون اسم الموقع أقل من 24 حرفًا"
+  },
+  "site_card_actions_update_success": {
+    "en": "Site has been updated",
+    "fr": "Le site a été mis à jour",
+    "ar": "تم تحديث الموقع"
+  },
+  "site_card_actions_update_error": {
+    "en": "Error while updating site",
+    "fr": "Erreur lors de la mise à jour du site",
+    "ar": "خطأ أثناء تحديث الموقع"
+  },
+  "site_card_actions_area_update_cancel": {
+    "en": "Cancel Redraw",
+    "fr": "Annuler le redessin",
+    "ar": "إلغاء إعادة الرسم"
+  },
+  "site_card_actions_area_update_submit": {
+    "en": "Submit Area",
+    "fr": "Soumettre une zone",
+    "ar": "تقديم المنطقة"
+  },
+  "site_card_actions_area_update_success": {
+    "en": "Site area has been updated",
+    "fr": "La zone du site a été mise à jour",
+    "ar": "تم تحديث مساحة الموقع"
+  },
+  "site_card_actions_area_update_error": {
+    "en": "Error while saving new site area",
+    "fr": "Erreur lors de l'enregistrement de la nouvelle zone du site",
+    "ar": "خطأ أثناء حفظ منطقة الموقع الجديدة"
+  },
+  "site_card_actions_marker_update_cancel": {
+    "en": "Cancel Replace",
+    "fr": "Annuler le remplacement",
+    "ar": "إلغاء الاستبدال"
+  },
+  "site_card_actions_marker_update_submit": {
+    "en": "Submit New Position",
+    "fr": "Soumettre la nouvelle position",
+    "ar": "تقديم الموقع الجديد"
+  },
+  "site_card_actions_marker_update_success": {
+    "en": "Site position has been updated",
+    "fr": "La position du site a été mise à jour",
+    "ar": "تم تحديث موقع الموقع"
+  },
+  "site_card_actions_marker_update_error": {
+    "en": "Error while saving new site position",
+    "fr": "Erreur lors de l'enregistrement du nouveau positionnement du site",
+    "ar": "خطأ أثناء حفظ موقع الموقع الجديد"
+  },
+  "site_card_actions_pivot_create_cancel": {
+    "en": "Cancel Shape",
+    "fr": "Annuler la forme",
+    "ar": "إلغاء الشكل"
+  },
+  "site_card_actions_pivot_create_submit": {
+    "en": "Create Pivot",
+    "fr": "Créer un pivot",
+    "ar": "إنشاء محور"
+  },
+  "site_card_actions_pivot_create_success": {
+    "en": "Pivot has been created",
+    "fr": "Le pivot a été créé",
+    "ar": "تم إنشاء المحور"
+  },
+  "site_card_actions_pivot_create_error": {
+    "en": "Error while creating pivot",
+    "fr": "Erreur lors de la création du pivot",
+    "ar": "خطأ أثناء إنشاء المحور"
+  },
+  "site_card_actions_copy_success": {
+    "en": "Site ID has been copied to clipboard",
+    "fr": "L'ID du site a été copié dans le presse-papiers",
+    "ar": "تم نسخ معرف الموقع إلى الحافظة"
+  },
+  "site_overlap_error": {
+    "en": "The site must not overlap with other sites",
+    "fr": "Le site ne doit pas chevaucher d'autres sites",
+    "ar": "يجب ألا يتداخل الموقع مع مواقع أخرى"
+  },
+  "site_creation_reset_shape": {
+    "en": "Reset Shape",
+    "fr": "Réinitialiser la forme",
+    "ar": "إعادة تعيين الشكل"
+  },
+  "site_creation_marker_place": {
+    "en": "Place Marker",
+    "fr": "Placer le marqueur",
+    "ar": "وضع العلامة"
+  },
+  "site_creation_marker_confirm": {
+    "en": "Confirm Area",
+    "fr": "Confirmer la zone",
+    "ar": "تأكيد المنطقة"
+  },
+  "pivot_card_name": {
+    "en": "Pivot Name",
+    "fr": "Nom du pivot",
+    "ar": "اسم المحور"
+  },
+  "pivot_card_content": {
+    "en": "Content",
+    "fr": "Contenu",
+    "ar": "المحتوى"
+  },
+  "pivot_card_details": {
+    "en": "Details",
+    "fr": "Détails",
+    "ar": "التفاصيل"
+  },
+  "pivot_card_circle_space": {
+    "en": "Pivot Size",
+    "fr": "Taille du pivot",
+    "ar": "حجم المحور"
+  },
+  "pivot_card_nodes_number": {
+    "en": "Number of Sensors",
+    "fr": "Nombre de capteurs",
+    "ar": "عدد المستشعرات"
+  },
+  "pivot_card_actions_update_details": {
+    "en": "Update Details",
+    "fr": "Mettre à jour les détails",
+    "ar": "تحديث التفاصيل"
+  },
+  "pivot_card_actions_update_redraw": {
+    "en": "Redraw Pivot",
+    "fr": "Redessiner le pivot",
+    "ar": "إعادة رسم المحور"
+  },
+  "pivot_card_actions_zoom_pivot_site": {
+    "en": "Zoom Site",
+    "fr": "Zoomer sur le site",
+    "ar": "تكبير الموقع"
+  },
+  "pivot_card_actions_zoom_pivot": {
+    "en": "Zoom Pivot",
+    "fr": "Zoomer sur le pivot",
+    "ar": "تكبير المحور"
+  },
+  "pivot_card_actions_copy_id": {
+    "en": "Copy Pivot ID",
+    "fr": "Copier l'ID du pivot",
+    "ar": "نسخ معرف المحور"
+  },
+  "pivot_card_actions_delete": {
+    "en": "Delete Pivot",
+    "fr": "Supprimer le pivot",
+    "ar": "حذف المحور"
+  },
+  "pivot_card_actions_view_nodes": {
+    "en": "View Pivot Sensors",
+    "fr": "Voir les capteurs du pivot",
+    "ar": "عرض مستشعرات المحور"
+  },
+  "pivot_card_actions_delete_success": {
+    "en": "Pivot has been deleted successfully",
+    "fr": "Le pivot a été supprimé avec succès",
+    "ar": "تم حذف المحور بنجاح"
+  },
+  "pivot_card_actions_delete_error": {
+    "en": "Error while deleting the pivot",
+    "fr": "Erreur lors de la suppression du pivot",
+    "ar": "خطأ أثناء حذف المحور"
+  },
+  "pivot_card_actions_update_name_error": {
+    "en": "The pivot name must be less than 24 characters",
+    "fr": "Le nom du pivot doit être inférieur à 24 caractères",
+    "ar": "يجب أن يكون اسم المحور أقل من 24 حرفًا"
+  },
+  "pivot_card_actions_update_success": {
+    "en": "Pivot has been updated",
+    "fr": "Le pivot a été mis à jour",
+    "ar": "تم تحديث المحور"
+  },
+  "pivot_card_actions_update_error": {
+    "en": "Error while updating pivot",
+    "fr": "Erreur lors de la mise à jour du pivot",
+    "ar": "خطأ أثناء تحديث المحور"
+  },
+  "pivot_card_actions_circle_update_cancel": {
+    "en": "Cancel Redraw",
+    "fr": "Annuler le redessin",
+    "ar": "إلغاء إعادة الرسم"
+  },
+  "pivot_card_actions_circle_update_submit": {
+    "en": "Submit Circle",
+    "fr": "Soumettre le cercle",
+    "ar": "تقديم الدائرة"
+  },
+  "pivot_card_actions_circle_update_no_circle_error": {
+    "en": "You must draw a circle before submitting an update! (please?)",
+    "fr": "Vous devez dessiner un cercle avant de soumettre une mise à jour ! (s'il vous plaît ?)",
+    "ar": "يجب رسم دائرة قبل تقديم تحديث! (من فضلك؟)"
+  },
+  "pivot_card_actions_circle_update_success": {
+    "en": "Pivot Circle has been successfully updated",
+    "fr": "Le cercle du pivot a été mis à jour avec succès",
+    "ar": "تم تحديث دائرة المحور بنجاح"
+  },
+  "pivot_card_actions_circle_update_error": {
+    "en": "Error while saving new pivot area",
+    "fr": "Erreur lors de l'enregistrement de la nouvelle zone du pivot",
+    "ar": "خطأ أثناء حفظ منطقة المحور الجديدة"
+  },
+  "pivot_card_actions_marker_update_cancel": {
+    "en": "Cancel Replace",
+    "fr": "Annuler le remplacement",
+    "ar": "إلغاء الاستبدال"
+  },
+  "pivot_card_actions_marker_update_submit": {
+    "en": "Submit New Position",
+    "fr": "Soumettre la nouvelle position",
+    "ar": "تقديم الموقع الجديد"
+  },
+  "pivot_card_actions_marker_update_success": {
+    "en": "Pivot position has been updated",
+    "fr": "La position du pivot a été mise à jour",
+    "ar": "تم تحديث موقع المحور"
+  },
+  "pivot_card_actions_marker_update_error": {
+    "en": "Error while saving new pivot position",
+    "fr": "Erreur lors de l'enregistrement du nouveau positionnement du pivot",
+    "ar": "خطأ أثناء حفظ موقع المحور الجديد"
+  },
+  "pivot_card_actions_pivot_create_cancel": {
+    "en": "Cancel Shape",
+    "fr": "Annuler la forme",
+    "ar": "إلغاء الشكل"
+  },
+  "pivot_card_actions_pivot_create_submit": {
+    "en": "Create Pivot",
+    "fr": "Créer un pivot",
+    "ar": "إنشاء محور"
+  },
+  "pivot_card_actions_copy_success": {
+    "en": "Pivot ID has been copied to clipboard",
+    "fr": "L'ID du pivot a été copié dans le presse-papiers",
+    "ar": "تم نسخ معرف المحور إلى الحافظة"
+  },
+  "empty_sites": {
+    "en": "There is no configured Site",
+    "fr": "Il n'y a pas de site configuré",
+    "ar": "لا يوجد موقع مُعد"
+  },
+  "activate_map_mode": {
+    "en": "Activate Map",
+    "fr": "Activer la carte",
+    "ar": "تفعيل الخريطة"
+  },
+  "activate_map_mode_note": {
+    "en": "You need to activate map mode in order to create sites/pivots",
+    "fr": "Vous devez activer le mode carte pour créer des sites/pivots",
+    "ar": "تحتاج إلى تفعيل وضع الخريطة لإنشاء المواقع/المحاور"
+  }
+}
