@@ -129,6 +129,11 @@
     "fr": "Mot de passe",
     "ar": "كلمة المرور"
   },
+  "user_type": {
+    "en": "User Type",
+    "fr": "Type d'utilisateur",
+    "ar": ""
+  },
   "username": {
     "en": "Username",
     "fr": "Nom d'utilisateur",
@@ -1114,14 +1119,14 @@
     "fr": "Il n'y a pas de site configuré",
     "ar": "لا يوجد موقع مُعد"
   },
-  "activate_map_mode": {
-    "en": "Activate Map",
-    "fr": "Activer la carte",
-    "ar": "تفعيل الخريطة"
+  "go_to_map": {
+    "en": "Go to map",
+    "fr": "Aller à la carte",
+    "ar": "اذهب الى الخريطة"
   },
-  "activate_map_mode_note": {
-    "en": "You need to activate map mode in order to create sites/pivots",
-    "fr": "Vous devez activer le mode carte pour créer des sites/pivots",
-    "ar": "تحتاج إلى تفعيل وضع الخريطة لإنشاء المواقع/المحاور"
+  "go_to_map_note": {
+    "en": "you need to be in the map page to create sites/pivots",
+    "fr": "Vous devez être dans la page Map pour créer des sites / pivots",
+    "ar": "تحتاج ان تكون في صفحة الخريطة لإنشاء المواقع/المحاور"
   }
 }
