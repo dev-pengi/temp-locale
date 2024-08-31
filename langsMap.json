@@ -1128,5 +1128,10 @@
     "en": "you need to be in the map page to create sites/pivots",
     "fr": "Vous devez être dans la page Map pour créer des sites / pivots",
     "ar": "تحتاج ان تكون في صفحة الخريطة لإنشاء المواقع/المحاور"
+  },
+  "map_title": {
+    "en": "{0} Map",
+    "fr": "{0} Carte",
+    "ar": "خريطة {0}"
   }
 }
