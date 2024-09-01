@@ -1133,5 +1133,72 @@
     "en": "{0} Map",
     "fr": "{0} Carte",
     "ar": "خريطة {0}"
+  },
+  "navbar_tooltip_map": {
+    "en": "Sites Map",
+    "fr": "Carte des sites",
+    "ar": "خريطة المواقع"
+  },
+
+  "navbar_tooltip_table": {
+    "en": "Sites Table",
+    "fr": "Table de sites",
+    "ar": "جدول المواقع"
+  },
+
+  "navbar_tooltip_users": {
+    "en": "Users",
+    "fr": "Utilisatrices",
+    "ar": "المستخدمين"
+  },
+  "navbar_tooltip_settings": {
+    "en": "Settings",
+    "fr": "Paramètres",
+    "ar": "الاعدادات"
+  },
+  "navbar_tooltip_logout": {
+    "en": "Log Out",
+    "fr": "Déconnecter",
+    "ar": "تسجيل الخروج"
+  },
+  "site_row_tooltip_view_nodes": {
+    "en": "View Site Pivots",
+    "fr": "Afficher les pivots du site",
+    "ar": "عرض محاور الموقع"
+  },
+  "site_row_tooltip_edit": {
+    "en": "Edit Site",
+    "fr": "Modifier le site",
+    "ar": "تعديل الموقع"
+  },
+  "site_row_tooltip_delete": {
+    "en": "Delete Site",
+    "fr": "Delete Site",
+    "ar": "حذف الموقع"
+  },
+  "pivot_row_tooltip_view_nodes": {
+    "en": "View Pivot Sensors",
+    "fr": "Voir les capteurs du pivot",
+    "ar": "عرض مستشعرات المحور"
+  },
+  "pivot_row_tooltip_edit": {
+    "en": "Edit Pivot",
+    "fr": "Modifier le pivot",
+    "ar": "تعديل المحور"
+  },
+  "pivot_row_tooltip_delete": {
+    "en": "Delete Pivot",
+    "fr": "Supprimer le pivot",
+    "ar": "حذف المحور"
+  },
+  "users_tooltip_table_view": {
+    "en": "Table View",
+    "fr": "Vue de la table",
+    "ar": "عرض جدول"
+  },
+  "users_tooltip_card_view": {
+    "en": "Card View",
+    "fr": "Vue de la carte",
+    "ar": "عرض البطاقات"
   }
 }
