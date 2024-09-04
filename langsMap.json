@@ -1315,5 +1315,15 @@
     "en": "Pivot",
     "fr": "Pivoter",
     "ar": "محور"
+  },
+  "enter_edit_mode": {
+    "en": "Edit Mode",
+    "fr": "Mode d'édition",
+    "ar": "وضع التعديل"
+  },
+  "confirm_edit_end": {
+    "en": "Confirm Changes",
+    "fr": "Confirmer les modifications",
+    "ar": "تأكيد التغييرات"
   }
 }
