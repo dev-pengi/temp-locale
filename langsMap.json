@@ -440,7 +440,7 @@
     "ar": "املأ المعلومات أدناه لإضافة موقع جديد"
   },
   "site_name": {
-    "en": "Site name",
+    "en": "name",
     "fr": "Nom du site",
     "ar": "اسم الموقع"
   },
@@ -474,7 +474,7 @@
     "fr": "Choisir l'emplacement",
     "ar": "اختيار الموقع"
   },
-  "pivots": {
+  "site_pivots": {
     "en": "Site Pivots",
     "fr": "Pivots du site",
     "ar": "محاور الموقع"
@@ -714,10 +714,10 @@
     "fr": "pH du sol",
     "ar": "رقم الحموضة في التربة"
   },
-  "soil_acidity": {
-    "en": "Soil Acidity",
-    "fr": "Acidité du sol",
-    "ar": "حمضية التربة"
+  "soil_salinity": {
+    "en": "Soil Salinity",
+    "fr": "Salinité du sol",
+    "ar": "ملوحة التربة"
   },
   "soil_nitrogen": {
     "en": "Soil Nitrogen",
@@ -1139,7 +1139,6 @@
     "fr": "Carte des sites",
     "ar": "خريطة المواقع"
   },
-
   "navbar_tooltip_table": {
     "en": "Sites Table",
     "fr": "Table de sites",
@@ -1200,5 +1199,121 @@
     "en": "Card View",
     "fr": "Vue de la carte",
     "ar": "عرض البطاقات"
+  },
+  "node_actions_delete_title": {
+    "en": "Delete Sensor",
+    "fr": "Supprimer le capteur",
+    "ar": "حذف المستشعر"
+  },
+  "node_actions_delete_confirm": {
+    "en": "Are you sure you want to delete Sensor N#({0})?",
+    "fr": "Êtes-vous sûr de vouloir supprimer Capteur N#({0})?",
+    "ar": "؟هل أنت متأكد أنك تريد حذف المستشعر رقم ({0})"
+  },
+  "node_actions_delete_error": {
+    "en": "Error while deleting the sensor",
+    "fr": "Erreur lors de la suppression du capteur",
+    "ar": "حدث خطأ اثناء حذف المستشعر"
+  },
+  "node_actions_delete_success": {
+    "en": "Sensor has been successfuly deleted",
+    "fr": "Sensor has been successfuly deleted",
+    "ar": "تم حذف المستشعر بنجاح"
+  },
+  "node_battery_state_danger_title": {
+    "en": "Battery Danger",
+    "fr": "Danger de la batterie",
+    "ar": "خطر البطارية"
+  },
+  "node_battery_state_danger": {
+    "en": "The sensor battery state is critical and must be charged/replaced as soon as possible",
+    "fr": "L'état de la batterie du capteur est critique et doit être chargé / remplacé dès que possible",
+    "ar": "حالة بطارية المستشعر حرجة ويجب شحنها/استبدالها في أقرب وقت ممكن"
+  },
+  "node_battery_state_warning_title": {
+    "en": "Battery Warning",
+    "fr": "Avertissement de batterie",
+    "ar": "تحذير البطارية"
+  },
+  "node_battery_state_warning": {
+    "en": "the sensor battery is low and you need to charge it",
+    "fr": "La batterie du capteur est faible et vous devez la charger",
+    "ar": "حالة بطارية المستشعر حرجة وتحتاج إلى شحنها"
+  },
+
+  "node_temp_state_danger_title": {
+    "en": "Tempreture Warning",
+    "fr": "Avertissement de température",
+    "ar": "تحذير الحرارة"
+  },
+  "node_temp_state_danger": {
+    "en": "The Sensor Temperature is too high and must be investigated",
+    "fr": "La température du capteur est trop élevée et doit être étudiée",
+    "ar": "درجة حرارة المستشعر مرتفعة للغاية ويجب التحقق منها"
+  },
+  "battery": {
+    "en": "Battery",
+    "fr": "Batterie",
+    "ar": "البطارية"
+  },
+  "temperature": {
+    "en": "Temperature",
+    "fr": "Température",
+    "ar": "الحرارة"
+  },
+  "no_data_available": {
+    "en": "No data available",
+    "fr": "Aucune donnée disponible",
+    "ar": "لا توجد بيانات متاحة"
+  },
+  "node_rtc_errors_title": {
+    "en": "RTC Errors",
+    "fr": "Erreurs RTC",
+    "ar": "أخطاء الساعة الزمنية الفورية"
+  },
+  "node_rtc_bus_error": {
+    "en": "RTC Bus Error",
+    "fr": "Erreur Bus RTC",
+    "ar": "خطأ ناقل الساعة الزمنية الفورية"
+  },
+  "node_rtc_alarm_error": {
+    "en": "RTC Alarm Error",
+    "fr": "Erreur Alarme RTC",
+    "ar": "خطأ إنذار الساعة الزمنية الفورية"
+  },
+  "node_rtc_clock_error": {
+    "en": "RTC Clock Error",
+    "fr": "Erreur Horloge RTC",
+    "ar": "خطأ ساعة الساعة الزمنية الفورية"
+  },
+  "node_error_title": {
+    "en": "Node Error",
+    "fr": "Erreur de nœud",
+    "ar": "خطأ معالج المستشعر"
+  },
+  "node_error": {
+    "en": "The node is not sending any data and must be investigated",
+    "fr": "Le nœud n'envoie aucune donnée et doit être étudié",
+    "ar": "معالج المستشعر لا يرسل أي بيانات ويجب التحقق منه"
+  },
+  "node_sensor_error_title": {
+    "en": "Sensor Error",
+    "fr": "Sensor Error",
+    "ar": "خطأ في المستشعر"
+  },
+  "node_sensor_error": {
+    "en": "The connection with the sensor cannot be established, must be investigated",
+    "fr": "Le lien avec le capteur ne peut être établi, doit être étudié",
+    "ar": "لا يمكن إنشاء الاتصال مع المستشعر، يجب التحقق منه"
+  },
+  "pivots": {
+    "en": "Pivots",
+    "fr": "Pivots",
+    "ar": "محاور"
+  },
+  "pivot": {
+    "en": "Pivot",
+    "fr": "Pivoter",
+    "ar": "محور"
   }
 }
