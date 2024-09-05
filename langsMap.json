@@ -954,6 +954,11 @@
     "fr": "Le site ne doit pas chevaucher d'autres sites",
     "ar": "يجب ألا يتداخل الموقع مع مواقع أخرى"
   },
+  "pivot_overlap_error": {
+    "en": "The Pivot must not overlap with other pivots",
+    "fr": "The Pivot must not overlap with other pivots",
+    "ar": "يجب ألا يتداخل المحور مع المحاور الأخرى"
+  },
   "site_creation_reset_shape": {
     "en": "Reset Shape",
     "fr": "Réinitialiser la forme",
